@@ -6,7 +6,7 @@ Saya sedang belajar **Front-end & Back-end** di [Dicoding](https://www.dicoding.
 
 Saya bersekolah di SMKN 1 DENPASAR
  
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](instagram.com/kmnganrasansy_)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](https://instagram.com/kmnganrasansy_/) ku ya.
  
 ### Github Statistic
 <p align="left">
