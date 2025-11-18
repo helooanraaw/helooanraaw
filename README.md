@@ -1,47 +1,41 @@
+# Hi there, I'm Anra 👋
+
+I'm a **Software Engineering** student at **SMK Negeri 1 Denpasar**, currently in 11th grade. I enjoy building web applications and designing user interfaces.
+
+## 🎓 About Me
+
+- 🏫 Student at SMKN 1 Denpasar - Software Engineering
+- 💻 Full Stack Developer & UI/UX Designer
+- 🌱 Always learning and exploring new technologies
+- 📍 Based in Denpasar, Bali
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+`PHP` `JavaScript` `Python` `Java` `Dart` `Pascal` `HTML` `CSS`
+
+**Frameworks & Tools:**  
+`Laravel` `Blade` `Flutter` `Git` `Figma` `MySQL`
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <h1>anraaw</h1>
-  <p style="color: #AAAAAA;">Front-end Developer & UI/UX Enthusiast</p>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=helooanraaw&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=helooanraaw&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
+
 </div>
 
----
+## 📫 Connect With Me
 
-<div align="center" style="background: #1A1A1A; padding: 20px; border-radius: 10px; max-width: 600px; margin: 0 auto;">
-  <h3>Tentang Saya</h3>
-  <p>Saya Anra, siswa SMKN 1 Denpasar, Bali. Saya memiliki keahlian dalam pengembangan Front-end melalui pelatihan di <a href="https://www.dicoding.com/" style="color: #00CCFF;">Dicoding</a>, serta mendalami desain UI/UX menggunakan Figma untuk menciptakan aplikasi yang fungsional dan estetis.</p>
-</div>
-
----
-
-### Keahlian
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JS" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/Scratch-%23FF6F00.svg?style=flat-square&logo=scratch&logoColor=white" alt="Scratch" style="margin: 5px;"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komanganrasansya)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://komanganrasansya.netlify.app)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/kmnganrasansy_/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:komanganrasansya21@gmail.com)
 
 ---
 
-### Statistik GitHub
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=dark&border_color=555555&title_color=FFFFFF&text_color=AAAAAA" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=helooanraaw&layout=compact&theme=dark&border_color=555555&title_color=FFFFFF&text_color=AAAAAA" alt="Top Languages" width="300"/>
-</p>
-
----
-
-### Kontak
-<p align="center">
-  <a href="https://instagram.com/kmnganrasansy_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram" style="margin: 5px;"/></a>
-  <a href="https://scratch.mit.edu/users/anraaw/"><img src="https://img.shields.io/badge/Scratch-%23FF6F00.svg?style=flat-square&logo=scratch&logoColor=white" alt="Scratch" style="margin: 5px;"/></a>
-  <a href="mailto:komanganrasansya21@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white" alt="Email" style="margin: 5px;"/></a>
-</p>
-
----
-
-<div align="center" style="color: #AAAAAA; margin-top: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=penuliscode&style=flat-square&color=555555" alt="Profile Views"/>
+<div align="center">
+  <i>Open to collaborations and always eager to learn!</i>
 </div>
