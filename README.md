@@ -1,4 +1,4 @@
-# Hi there, I'm Anra 👋
+# Hi Everyone!, I'm Anra 
 
 I'm a **Software Engineering** student at **SMK Negeri 1 Denpasar**, currently in 11th grade. I enjoy building web applications and designing user interfaces.
 
@@ -44,7 +44,7 @@ I'm a **Software Engineering** student at **SMK Negeri 1 Denpasar**, currently i
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komanganrasansya)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://komanganrasansya.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://komanganrasansya.vercel.app)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kmnganrasansy_/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:komanganrasansya21@gmail.com)
 
