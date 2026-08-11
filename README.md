@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Anra</h1>
+<h1 align="left">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Anra</h1>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=helooanraaw">
@@ -17,14 +17,11 @@
 - 📬 Connect with Me
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/helooanraaw">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=helooanraaw&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="helooanraaw's GitHub Stats" />
   </a>
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=helooanraaw&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Anra's GitHub Trophies" />
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=helooanraaw&theme=dark&radius=10" alt="helooanraaw's Activity Graph" />
@@ -50,5 +47,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
